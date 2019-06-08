@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651508064395",
+    "firebase_url": "https://elshereeffxtrading.firebaseio.com",
+    "project_id": "elshereeffxtrading",
+    "storage_bucket": "elshereeffxtrading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651508064395:android:65ad8e027952e79c",
+        "android_client_info": {
+          "package_name": "io.pi.ElShereefFxTrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651508064395-qtj84nl8tbj0hfjjaok1k7t3m049r4cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.pi.ElShereefFxTrading",
+            "certificate_hash": "76ac3dd65a72ceda24325d1e3c9750f989526e5d"
+          }
+        },
+        {
+          "client_id": "651508064395-t8lndn8t7dh26j8t9brv1kj3gjuuca3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9wQ0W-MvTBgrtjIKVjwQ4XxsNIN4tb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651508064395-t8lndn8t7dh26j8t9brv1kj3gjuuca3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
