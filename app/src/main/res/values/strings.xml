@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ElShereef FX trading</string>
+    <string name="app_s_logo">App\'s Logo</string>
+    <string name="EnterYourEmail">Enter your E-mail</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
 </resources>
